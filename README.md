@@ -1,2 +1,2 @@
-# CS1105
+# IVC
 Introduction to Version Control
